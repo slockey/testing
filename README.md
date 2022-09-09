@@ -1,5 +1,5 @@
 # testing
 
-First repo for initial testing purposes.
+Simple repo for testing purposes.
 
-To be deleted.
+To be deleted at some point in the future.
